@@ -32,6 +32,7 @@ A=3.14*R*R
 print("Diamenter of circle: ",D)
 print("Circumference of circle: ",C)
 print("Area of circle: ",A)
+rr
 
 #6-​Write a Python program to enter length in centimeter and convert it into meter and kilometer. 
 
